@@ -1,3 +1,24 @@
 h3 {
     color: green;
+    text-align: left;
+}
+body {
+    background-color: yellow;
+}
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: darkgreen;
+    margin: auto;
+}
+#circle {
+    color: yellow;
+    font-size: 40px;
+}
+.container {
+    background: linear-gradient(#00ccff, #b3f0ff);
+}
+h4 {
+    color: #999;
+    background-color: rgb(255, 0, 255);
 }
