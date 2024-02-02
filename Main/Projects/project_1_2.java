@@ -22,7 +22,7 @@ public class project_1_2 {
         return 0; //close
     }
     public static void main(String[] args) {
-        String arr[] = {"Hi", "Hello", "hi", "Greetings", "greetings"}; //input array
+        String arr[] = {"Hi", "Hello", "hi", "Greetings", "greetings", "hi"}; //input array
         getWordFrequency(arr, arr.length, arr[0]);
     }
 }
