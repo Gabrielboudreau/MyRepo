@@ -12,7 +12,7 @@ public class project_1_1 {
     }
     public static void main(String[] args) {
         System.out.println("hi");
-        int arr[] = {7, 4, 3, 9, 64, 984, 12};
+        int arr[] = {7, 4, 3, 9, 64, 984, 12, 89};
         sortArray(arr, arr.length);
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + ", ");
